@@ -10,7 +10,7 @@ Incluye análisis de datos, entrenamiento de modelos y visualización interactiv
 
 ## 🌐 Demo en vivo
 
-👉 [[Ver aplicación](https://TU-APP.streamlit.app)](https://fraud-detection-dashboard-rmfafyypdweu23vff6cswt.streamlit.app/)
+👉 [[Ver aplicación] (https://TU-APP.streamlit.app)](https://fraud-detection-dashboard-rmfafyypdweu23vff6cswt.streamlit.app/)
 
 ---
 
