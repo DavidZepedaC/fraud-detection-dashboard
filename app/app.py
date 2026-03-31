@@ -20,7 +20,9 @@ st.markdown("Simulación y análisis de transacciones financieras mediante Machi
 # =========================
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"C:\Users\David_DZC\Desktop\AMD AL 14ENE2026\Ciencia de Datos (Anahuac)\Proyecto Final\creditcard.csv")
+    url = "https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv"
+    return pd.read_csv(url)
+    return data.sample(10000)  # más rápido
 
 data = load_data()
 
